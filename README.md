@@ -16,7 +16,7 @@ lo cual evita la necesidad de destinar personal para la realizacion de esta tare
 
 GLOSARIO: 
 	
-	**RegAut - CI**: Registro automatico de cola de impresion (carpeta).
+	**RegAut** **-** **CI**: Registro automatico de cola de impresion (carpeta).
 	
  	IniciarScript.vbs: Script que permite la ejecucion automatica.
 	
