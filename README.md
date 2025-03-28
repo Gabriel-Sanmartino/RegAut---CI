@@ -7,8 +7,9 @@ CSV, esta desarrollada para usarse en todas las versiones de Windows.
 
 RegAut - CI, es una solucion pensada para utilizarse en ambitos laborales donde se imprime un alto volumen de acrhivos o documentos, esta permite tener un control o un registo
 de las impresiones que realiza cada usuario o empleado.
-Por ejemplo podria utilizarse para controlar o monitorear que los equipos se esten utilizando correctamente para imprimir solo documentos requiridos para las distintas labores
-dentro del entorno de trabajo, verificar que no se esten emitiendo documentos duplicados, entre otros usos.
+
+Por ejemplo podria utilizarse para controlar o monitorear que los equipos se esten utilizando correctamente para imprimir solo documentos requiridos para las distintas labores dentro del entorno de trabajo, verificar que no se esten emitiendo documentos duplicados, entre otros usos.
+
 Esto es posible ya que el registro automatico generado incluye detalles de fecha y hora, nombre del documento, usuario y cantidad de paginas impresas.
 Ademas una ves que que el script se pone a funcionar, no es necesario volverlo a iniciar, esto es posible ya que esta configurado para iniciar cada ves que los equipos se encienden
 lo cual evita la necesidad de destinar personal para la realizacion de esta tarea.
