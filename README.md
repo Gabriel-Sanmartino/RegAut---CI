@@ -16,10 +16,13 @@ lo cual evita la necesidad de destinar personal para la realizacion de esta tare
 
 GLOSARIO: 
 	
-	RegAut - CI: Registro automatico de cola de impresion (carpeta).
-	IniciarScript.vbs: Script que permite la ejecucion automatica.
-	RegistrarColaImpresion.ps1: Script que registra la cola de impresion en archivo CSV.
-	cola_impresion.csv: archivo donde se guardan los registros.
+	**RegAut - CI**: Registro automatico de cola de impresion (carpeta).
+	
+ 	IniciarScript.vbs: Script que permite la ejecucion automatica.
+	
+ 	RegistrarColaImpresion.ps1: Script que registra la cola de impresion en archivo CSV.
+	
+ 	cola_impresion.csv: archivo donde se guardan los registros.
 
 PASOS PARA PONER EN FUNCIONAMIENTO SCRIPTS:
 
