@@ -1,8 +1,8 @@
 <h1 style="text-align: center;">✨🖨REGISTRO AUTOMATICO DE COLA DE IMPRESION🖨✨</h1>
 
-**"RegAut - CI"**, es una solución desarrollada a través de scripts, que tal como lo indica el título, permite generar un registro **automatico** de la cola de impresiones en un archivo CSV, desarrollado para usarse en todas las versiones de Windows.
+**"RegAut - CI"**, es una solución desarrollada a través de scripts, que tal como lo indica el título, permite generar un registro ***automatico*** de la cola de impresiones en un archivo CSV, desarrollado para usarse en todas las versiones de Windows.
 
-## ¿En qué entornos y cómo implementarla? 🔎
+## 🔎¿En qué entornos y cómo implementarla? 
 
 **RegAut - CI**, es una solución pensada 💡 para utilizarse en ámbitos laborales donde se imprime un alto volumen de archivos o documentos. Permite tener un control o un registro de las impresiones que realiza cada usuario o empleado.
 
@@ -87,7 +87,7 @@ WshShell.Run "powershell -NoProfile -ExecutionPolicy Bypass -File ""C:\Reemplaza
 
 ---
 
-**📝NOTA:** Si se desea detener el script, abrir el administrador de tareas (`Ctrl + Alt + Supr`), pestaña "Detalles", buscar el proceso: "powershell.exe", hacer clic derecho y seleccionar "Finalizar tarea".
+**NOTA:** Si se desea detener el script, abrir el administrador de tareas (`Ctrl + Alt + Supr`), pestaña "Detalles", buscar el proceso: "powershell.exe", hacer clic derecho y seleccionar "Finalizar tarea".
 
 ---
 
@@ -96,4 +96,4 @@ WshShell.Run "powershell -NoProfile -ExecutionPolicy Bypass -File ""C:\Reemplaza
 - **✅PowerShell**: Lenguaje de scripts diseñado para la automatización de tareas administrativas.
 - **✅Visual Basic 6 (VB6)**: Lenguaje de programación orientado a eventos.
 
-✏💥❌❗🔰✅❎✔🔴🟠🟡🟢🔵🟣🟤⚫🟥⚪🕐✨💡💰💰💶⌛⚡🔥
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
