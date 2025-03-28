@@ -1,18 +1,20 @@
-<h1 style="text-align: center;">REGISTRO AUTOMATICO DE COLA DE IMPRESION</h1>
+<h1 style="text-align: center;">✨🖨REGISTRO AUTOMATICO DE COLA DE IMPRESION🖨✨</h1>
 
-**"RegAut - CI"**, es una solución desarrollada a través de scripts, que tal como lo indica el título, permite generar un registro automático de la cola de impresiones en un archivo CSV, desarrollado para usarse en todas las versiones de Windows.
+**"RegAut - CI"**, es una solución desarrollada a través de scripts, que tal como lo indica el título, permite generar un registro **automatico** de la cola de impresiones en un archivo CSV, desarrollado para usarse en todas las versiones de Windows.
 
-## ¿En qué entornos y cómo implementarla?
+## ¿En qué entornos y cómo implementarla? 🔎
 
-RegAut - CI, es una solución pensada para utilizarse en ámbitos laborales donde se imprime un alto volumen de archivos o documentos. Permite tener un control o un registro de las impresiones que realiza cada usuario o empleado.
+**RegAut - CI**, es una solución pensada 💡 para utilizarse en ámbitos laborales donde se imprime un alto volumen de archivos o documentos. Permite tener un control o un registro de las impresiones que realiza cada usuario o empleado.
 
-Por ejemplo, podría utilizarse para controlar o monitorear que los equipos se estén utilizando correctamente para imprimir solo documentos requeridos para las distintas labores dentro del entorno de trabajo, verificar que no se estén emitiendo documentos duplicados, entre otros usos.
+**Por ejemplo**, podría utilizarse para controlar o monitorear que los equipos se estén utilizando correctamente para imprimir solo documentos requeridos para las distintas labores dentro del entorno de trabajo, verificar que no se estén emitiendo documentos duplicados, entre otros usos.
 
-Esto es posible ya que el registro automático generado incluye detalles de fecha y hora, nombre del documento, usuario y cantidad de páginas impresas. Además, una vez que el script se pone a funcionar, no es necesario volverlo a iniciar, ya que está configurado para ejecutarse automáticamente al encender el equipo, evitando la necesidad de destinar personal para realizar esta tarea.
+Esto es posible ya que ***el registro automático generado incluye detalles de fecha y hora, nombre del documento, usuario y cantidad de páginas impresas***. Además, una vez que el script se pone a funcionar, ***no es necesario volverlo a iniciar***, ya que está configurado para ejecutarse automáticamente al encender el equipo, ***evitando la necesidad de destinar personal para realizar esta tarea.***
+
+**En resumen el uso del script implica una optimizacion en cuanto a tiempo y recursos** ⌛💰⚡
 
 ---
 
-## GLOSARIO: 
+## 📑GLOSARIO: 
     
 - **RegAut - CI**: Registro automático de cola de impresión (carpeta).
 - **IniciarScript.vbs**: Script que permite la ejecución automática.
@@ -21,7 +23,7 @@ Esto es posible ya que el registro automático generado incluye detalles de fech
 
 ---
 
-## PASOS PARA PONER EN FUNCIONAMIENTO LOS SCRIPTS:
+## 🔰PASOS PARA PONER EN FUNCIONAMIENTO LOS SCRIPTS:
 
 ### 1. Asignar permisos a PowerShell para la ejecución de scripts:
 
@@ -29,7 +31,7 @@ Esto es posible ya que el registro automático generado incluye detalles de fech
 
 1.2. Pegar el siguiente código en la terminal de PowerShell:
 
-    ```powershell
+    ```
     Set-ExecutionPolicy RemoteSigned -Scope LocalMachine
     ```
 
@@ -37,7 +39,7 @@ Esto es posible ya que el registro automático generado incluye detalles de fech
 
 1.4. Verificar el cambio de configuración pegando el siguiente código en la terminal:
 
-    ```powershell
+    ```
     Get-ExecutionPolicy -List
     ```
 
@@ -85,13 +87,13 @@ WshShell.Run "powershell -NoProfile -ExecutionPolicy Bypass -File ""C:\Reemplaza
 
 ---
 
-**NOTA:** Si se desea detener el script, abrir el administrador de tareas (`Ctrl + Alt + Supr`), pestaña "Detalles", buscar el proceso: "powershell.exe", hacer clic derecho y seleccionar "Finalizar tarea".
+**📝NOTA:** Si se desea detener el script, abrir el administrador de tareas (`Ctrl + Alt + Supr`), pestaña "Detalles", buscar el proceso: "powershell.exe", hacer clic derecho y seleccionar "Finalizar tarea".
 
 ---
 
-## Tecnologías utilizadas:
+## 🚀Tecnologías utilizadas:
 
-- **PowerShell**: Lenguaje de scripts diseñado para la automatización de tareas administrativas.
-- **Visual Basic 6 (VB6)**: Lenguaje de programación orientado a eventos.
+- **✅PowerShell**: Lenguaje de scripts diseñado para la automatización de tareas administrativas.
+- **✅Visual Basic 6 (VB6)**: Lenguaje de programación orientado a eventos.
 
-
+✏💥❌❗🔰✅❎✔🔴🟠🟡🟢🔵🟣🟤⚫🟥⚪🕐✨💡💰💰💶⌛⚡🔥
