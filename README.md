@@ -27,17 +27,17 @@ Esto es posible ya que ***el registro automático generado incluye detalles de f
 
 ### 1. Asignar permisos a PowerShell para la ejecución de scripts:
 
-1.1. Ejecutar PowerShell como administrador.
+**1.1. Ejecutar PowerShell como administrador.**
 
-1.2. Pegar el siguiente código en la terminal de PowerShell:
+**1.2. Pegar el siguiente código en la terminal de PowerShell:**
 
     ```
     Set-ExecutionPolicy RemoteSigned -Scope LocalMachine
     ```
 
-1.3. En la terminal aparecerá una pregunta; responder con la opción `[O]` (letra). En caso de que aparezca otra opción, elegir "Sí" o "Sí a todo".
+**1.3. En la terminal aparecerá una pregunta; responder con la opción `[O]` (letra). En caso de que aparezca otra opción, elegir "Sí" o "Sí a todo".**
 
-1.4. Verificar el cambio de configuración pegando el siguiente código en la terminal:
+**1.4. Verificar el cambio de configuración pegando el siguiente código en la terminal:**
 
     ```
     Get-ExecutionPolicy -List
@@ -96,4 +96,4 @@ WshShell.Run "powershell -NoProfile -ExecutionPolicy Bypass -File ""C:\Reemplaza
 - **✅PowerShell**: Lenguaje de scripts diseñado para la automatización de tareas administrativas.
 - **✅Visual Basic 6 (VB6)**: Lenguaje de programación orientado a eventos.
 
-🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
