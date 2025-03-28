@@ -31,7 +31,7 @@ Esto es posible ya que ***el registro automático generado incluye detalles de f
 
 **1.2. Pegar el siguiente código en la terminal de PowerShell:**
 
-    ```
+    ```powershell
     Set-ExecutionPolicy RemoteSigned -Scope LocalMachine
     ```
 
@@ -39,7 +39,7 @@ Esto es posible ya que ***el registro automático generado incluye detalles de f
 
 **1.4. Verificar el cambio de configuración pegando el siguiente código en la terminal:**
 
-    ```
+    ```powershell
     Get-ExecutionPolicy -List
     ```
 
@@ -96,4 +96,7 @@ WshShell.Run "powershell -NoProfile -ExecutionPolicy Bypass -File ""C:\Reemplaza
 - **✅PowerShell**: Lenguaje de scripts diseñado para la automatización de tareas administrativas.
 - **✅Visual Basic 6 (VB6)**: Lenguaje de programación orientado a eventos.
 
-🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+  <span style="color: red;">Texto en rojo</span>
+
+
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
