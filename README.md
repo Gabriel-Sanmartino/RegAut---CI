@@ -31,29 +31,29 @@ Esto es posible ya que ***el registro automático generado incluye detalles de f
 
 **1.2. Pegar el siguiente código en la terminal de PowerShell:**
 
-    ```powershell
-    Set-ExecutionPolicy RemoteSigned -Scope LocalMachine
-    ```
+```powershell
+Set-ExecutionPolicy RemoteSigned -Scope LocalMachine
+```
 
 **1.3. En la terminal aparecerá una pregunta; responder con la opción `[O]` (letra). En caso de que aparezca otra opción, elegir "Sí" o "Sí a todo".**
 
 **1.4. Verificar el cambio de configuración pegando el siguiente código en la terminal:**
 
-    ```powershell
-    Get-ExecutionPolicy -List
-    ```
+```powershell
+Get-ExecutionPolicy -List
+```
 
 Debería imprimirse un mensaje similar al siguiente:
 
-    ```
-    Scope            ExecutionPolicy
-    ---------------  ---------------
-    MachinePolicy    Undefined
-    UserPolicy       Undefined
-    Process          Undefined
-    CurrentUser      Undefined
-    LocalMachine     RemoteSigned
-    ```
+```
+Scope            ExecutionPolicy
+---------------  ---------------
+MachinePolicy    Undefined
+UserPolicy       Undefined
+Process          Undefined
+CurrentUser      Undefined
+LocalMachine     RemoteSigned
+```
 
 ---
 
@@ -95,8 +95,5 @@ WshShell.Run "powershell -NoProfile -ExecutionPolicy Bypass -File ""C:\Reemplaza
 
 - **✅PowerShell**: Lenguaje de scripts diseñado para la automatización de tareas administrativas.
 - **✅Visual Basic 6 (VB6)**: Lenguaje de programación orientado a eventos.
-
-  <span style="color: red;">Texto en rojo</span>
-
 
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
