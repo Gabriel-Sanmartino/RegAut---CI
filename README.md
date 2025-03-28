@@ -38,14 +38,17 @@ PASOS PARA PONER EN FUNCIONAMIENTO SCRIPTS:
 		Get-ExecutionPolicy -List
 	
 	Debera imprimir por pantalla un mensaje similar al siguiente:
+ 
+ ```
+Scope            ExecutionPolicy
+---------------  ---------------
+MachinePolicy    Undefined
+UserPolicy       Undefined
+Process          Undefined
+CurrentUser      Undefined
+LocalMachine     RemoteSigned
+```
 
-		        Scope ExecutionPolicy
-       		        -------------- ---------------
-			MachinePolicy   Undefined
-   			UserPolicy      Undefined
-      			Process       	Undefined
-  			CurrentUser     Undefined
- 			LocalMachine    RemoteSigned
 
 2.Reemplazar rutas en cada script:
 
