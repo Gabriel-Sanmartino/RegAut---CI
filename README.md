@@ -96,4 +96,4 @@ WshShell.Run "powershell -NoProfile -ExecutionPolicy Bypass -File ""C:\Reemplaza
 - **✅PowerShell**: Lenguaje de scripts diseñado para la automatización de tareas administrativas.
 - **✅Visual Basic 6 (VB6)**: Lenguaje de programación orientado a eventos.
 
-🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
